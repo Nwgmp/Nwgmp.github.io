@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2021-01-01-paper-title-number-1
 excerpt: ''
 date: 2021-01-01
-venue: 'Journal 1'
+venue: 'Chinese Journal of Theoretical and Applied Mechanics 53 (2021): 467-481'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: ''
