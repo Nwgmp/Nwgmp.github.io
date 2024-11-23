@@ -1,6 +1,7 @@
 ---
 title: "A fnite element collocation method with smoothed nodal gradients"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-paper-title-number-1
 excerpt: ''
 date: 2021
