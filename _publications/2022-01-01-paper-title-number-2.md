@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-paper-title-number-2
 excerpt: ''
-date: 2021-01-01
+date: 2022-01-01
 venue: 'Computational Mechanics 70.1 (2022): 73-100'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
