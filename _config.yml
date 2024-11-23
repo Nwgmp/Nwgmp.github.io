@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : # "Your Sidebar Name"
-  pronouns         : "he/his/him"  
-  bio              : "My contact info"
+  pronouns         : "(he/his/him)"  
+  bio              : "My contact info: "
   location         : "U.S."
   employer         : "University of Minnesota-Twin Cities"
   uri              : "https://twin-cities.umn.edu/"
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
