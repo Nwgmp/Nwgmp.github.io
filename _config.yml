@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Honghui Du / Personal Page"
+title                    : "Honghui Du / CV"
 title_separator          : "-"
 name                     : &name "Honghui Du"
 description              : &description "personal description"
