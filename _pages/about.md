@@ -89,7 +89,7 @@ Awards & Activities
 <font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font><br>
 
 **Activities**:  
-**Oral presentation in MMLDE-CSET**<br><font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font>  
+**<font size=3>Oral presentation in MMLDE-CSET</font>**<br><font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font>  
 **Oral presentation in ACM 2023**  
 <font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font>  
 **Presentation accepted in SES Annual Technical Meeting**  
