@@ -76,23 +76,18 @@ Sep 2019 – Jun 2022, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Dongdong 
 
 Awards & Activities
 ------
-**Awards**:<br>
-**Hsiao Shaw-Lundquist Fellowship**<br>
-<font size=3> &emsp; Sep 2024~Aug 2025 &emsp; University of Minnesota</font> 
-**NSF Fellowship Award**<br>
-<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM</font> 
-**CEGE Graduate Student Fellowship**<br>
-<font size=3> &emsp; Sep 2022~Aug 2023 &emsp; University of Minnesota</font> 
-**Y.K.Lin Academician Scholarship**<br>
-<font size=3> &emsp; May 2022 &emsp;&emsp;&emsp; Xiamen University</font> 
-**Graduate Student Scholarship**<br>
-<font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font><br>
+**Awards**:  
+**<font size=3>Hsiao Shaw-Lundquist Fellowship</font>**<br><font size=3> &emsp; Sep 2024~Aug 2025 &emsp; University of Minnesota</font>  
+**<font size=3>NSF Fellowship Award</font>**<br><font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM</font>  
+**<font size=3>CEGE Graduate Student Fellowship</font>**<br><font size=3> &emsp; Sep 2022~Aug 2023 &emsp; University of Minnesota</font>  
+**<font size=3>Y.K.Lin Academician Scholarship</font>**<br><font size=3> &emsp; May 2022 &emsp;&emsp;&emsp; Xiamen University</font>  
+**<font size=3>Graduate Student Scholarship</font>**<br><font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font>  
 
 **Activities**:  
 **<font size=3>Oral presentation in MMLDE-CSET</font>**<br><font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font>  
 **<font size=3>Oral presentation in ACM 2023</font>**<br><font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font>  
 **<font size=3>Presentation accepted in SES Annual Technical Meeting</font>**<br><font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font>  
-**<font size=3>Presentation in 2023 Research Computing Exhibition;</font>**<br><font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font>  
+**<font size=3>Presentation in 2023 Research Computing Exhibition</font>**<br><font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font>  
 
 Academic & Volunteer Service
 ------
