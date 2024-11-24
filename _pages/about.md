@@ -77,25 +77,25 @@ Sep 2019 – Jun 2022, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Dongdong 
 Awards & Activities
 ------
 **Awards**: <br>
-**<font size=3>Hsiao Shaw-Lundquist Fellowship</font>**; 
+**<font size=3>Hsiao Shaw-Lundquist Fellowship</font>**
 <font size=3> &emsp; Sep 2024~Aug 2025 &emsp; University of Minnesota</font> 
-**<font size=3>NSF Fellowship Award</font>**; 
+**<font size=3>NSF Fellowship Award</font>**
 <font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM</font> 
-**<font size=3>CEGE Graduate Student Fellowship</font>**; 
+**<font size=3>CEGE Graduate Student Fellowship</font>**
 <font size=3> &emsp; Sep 2022~Aug 2023 &emsp; University of Minnesota</font> 
-**<font size=3>Y.K.Lin Academician Scholarship</font>**; 
+**<font size=3>Y.K.Lin Academician Scholarship</font>**
 <font size=3> &emsp; May 2022 &emsp;&emsp;&emsp; Xiamen University</font> 
-**<font size=3>Graduate Student Scholarship</font>**; 
+**<font size=3>Graduate Student Scholarship</font>**
 <font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font> <br>
 
 **Activities**: <br>
-**<font size=3>Oral presentation in MMLDE-CSET</font>**; 
+**<font size=3>Oral presentation in MMLDE-CSET</font>**
 <font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font> 
-**<font size=3>Oral presentation in ACM 2023</font>**; 
+**<font size=3>Oral presentation in ACM 2023</font>**
 <font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font> 
-**<font size=3>Presentation accepted in SES Annual Technical Meeting</font>**; 
+**<font size=3>Presentation accepted in SES Annual Technical Meeting</font>**
 <font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font> 
-**<font size=3>Presentation in 2023 Research Computing Exhibition</font>**; 
+**<font size=3>Presentation in 2023 Research Computing Exhibition</font>**
 <font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font> 
 
 Academic & Volunteer Service
