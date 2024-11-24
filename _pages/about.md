@@ -43,7 +43,7 @@ Project Experience
 Research Experience
 ------
 **NI-MPM: A GPU accelerated data-driven material point method for physics-based numerical simulation in computer graphics**  
-Jul 2024 – Current
+Jul 2024 – Current 
 *Research Assistant Advisor: Prof. Qizhi He* 
 
 • Integrated Eulerian-Lagrangian hybrid features from MPM into neural integrated meshfree (NIM) method,
@@ -55,7 +55,7 @@ programming, enhancing the speed and scalability of real-time graphical simulati
 step, guiding the simulation-based training process and enabling time-series forecasting.
 
 **JAX-NIM: A GPU accelerated diﬀerentiable meshfree (and fnite element) solver for computational mechanics (PDEs), operator learning, inverse design**  
-Sep 2023 – May 2024
+Sep 2023 – May 2024 
 *Research Assistant Advisor: Prof. Qizhi He* 
 
 • Proposed neuro-symbolic hybrid approximation (NeuroPU) that integrates numerical discretization (e.g., FEM,
@@ -69,7 +69,7 @@ real-time prediction for black-box complex systems after ofine training, and all
 features including fractures and damage in geophysical systems.
 
 **Object detection and semantic 3D reconstruction via computer vision**  
-Sep 2023 – Dec 2023
+Sep 2023 – Dec 2023 
 *Project Participant Advisor: Prof. Volkan Isler* 
 
 • Optimized YOLOv8 for enhanced face mask detection by integrating an advanced attention mechanism, achieving
@@ -80,7 +80,7 @@ and Mask-RCNN for image segmentation, enhancing technical expertise in computer 
 reconstruction techniques.
 
 **Subsurface ﬂuid dynamics modeling by physics-informed machine learning**  
-Sep 2022 – Dec 2022
+Sep 2022 – Dec 2022 
 *Research Assistant Advisor: Prof. Qizhi He* 
 
 • Introduced the Physics-Informed Neural Network (PINN) method to investigate the mass transfer of CO2 injected
@@ -91,7 +91,7 @@ accuracy of unstable density-driven ﬂow modeling by 30% when compared to the r
 of ﬂow dynamics, allowing the PINN solution to capture short-interval dynamics sequentially.
 
 **High-performance numerical simulation method and its accuracy analysis**  
-Sep 2019 – Jun 2022
+Sep 2019 – Jun 2022 
 *Research Assistant Advisor: Prof. Dongdong Wang* 
 
 • Implemented the performance comparison of Finite Element Analysis (FEA) and Meshfree Method regarding
@@ -108,46 +108,21 @@ problem) and conducted numerical simulations to validate the proposed theory.
 Awards & Activities
 ------
 **Awards**
----
-Award: Hsiao Shaw-Lundquist Fellowship
-Datetime: Sep 2024 – Aug 2025
-Location: University of Minnesota
----
-Award: NSF Fellowship Award
-Datetime: Sep 2023
-Location: IACM
----
-Award: CEGE Graduate Student Fellowship
-Datetime: Sep 2022 – Aug 2023
-Location: University of Minnesota
----
-Award: Y.K.Lin Academician Scholarship
-Datetime: May 2022
-Location: Xiamen University
----
-Award: Graduate Student Scholarship
-Datetime: Sep 2019 – Jun 2022
-Location: Xiamen University
----
+| Award | Datetime | Location |
+| ----- | -------- | -------- |
+| Hsiao Shaw-Lundquist Fellowship | Sep 2024 – Aug 2025 | University of Minnesota | 
+| NSF Fellowship Award | Sep 2023 | IACM | 
+| CEGE Graduate Student Fellowship | Sep 2022 – Aug 2023 | University of Minnesota | 
+| Y.K.Lin Academician Scholarship | May 2022 | Xiamen University | 
+| Graduate Student Scholarship | Sep 2019 – Jun 2022 | Xiamen University | 
 
 **Activities**
----
-Activity: Oral presentation in MMLDE-CSET
-Datetime: Sep 2023
-Location: IACM Conference
----
-Activity: Oral presentation in ACM 2023
-Datetime: Oct 2023
-Location: U.S. Association for Computational Mechanics
----
-Activity: Presentation accepted in SES Annual Technical Meeting
-Datetime: Oct 2023
-Location: Society of Engineering Science
----
-Activity: Presentation in 2023 Research Computing Exhibition
-Datetime: Apr 2023
-Location: University of Minnesota
----
+| Activity | Datetime | Location |
+| ----- | -------- | -------- |
+| Oral presentation in MMLDE-CSET | Sep 2023 | IACM Conference | 
+| Oral presentation in ACM 2023 | Oct 2023 | U.S. Association for Computational Mechanics | 
+| Presentation accepted in SES Annual Technical Meeting | Oct 2023 | Society of Engineering Science | 
+| Presentation in 2023 Research Computing Exhibition | Apr 2023 | University of Minnesota | 
 
 Academic & Volunteer Service
 ------
