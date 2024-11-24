@@ -10,20 +10,20 @@ redirect_from:
 
 Education & Research Focus
 ------
-**University of Minnesota-Twin Cities, College of Science and Engineering** 	
-Minnesota, the U.S.
-*Ph.D. in Computational Science and Engineering; GPA 3.89/4.0 	Expected Graduation 2026*
-**University of Minnesota-Twin Cities, College of Science and Engineering** 	
-Minnesota, the U.S.
-*M.S. in Computer Science; GPA 3.89/4.0 	Expected Graduation 2026*
-**Xiamen University** 	
-Xiamen, China
-*M.S. in Computational Mechanics; 	Jun 2022*
-**Chongqing Jiaotong University** 	
-Chongqing, China
-*B.S. in Civil Engineering; 	Jun 2019*
+**University of Minnesota-Twin Cities, College of Science and Engineering** <br>
+Minnesota, the U.S. 
+*Ph.D. in Computational Science and Engineering; GPA 3.89/4.0 	Expected Graduation 2026* 
+**University of Minnesota-Twin Cities, College of Science and Engineering** 
+Minnesota, the U.S. 
+*M.S. in Computer Science; GPA 3.89/4.0 	Expected Graduation 2026* 
+**Xiamen University** 
+Xiamen, China 
+*M.S. in Computational Mechanics; 	Jun 2022* 
+**Chongqing Jiaotong University** 
+Chongqing, China 
+*B.S. in Civil Engineering; 	Jun 2019* 
 
-*Research interests: Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation*
+*Research interests*: Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation*
 
 Skills & coursework
 ------
