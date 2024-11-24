@@ -19,7 +19,7 @@ Education & Research Focus
 **Chongqing Jiaotong University** &nbsp;&nbsp; Chongqing, China <br>
 *B.S. in Civil Engineering; 	Jun 2019* 
 
-**Research interests**: *Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation* 
+<font size=3>Research interests: Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation</font> 
 
 Skills & coursework
 ------
@@ -32,8 +32,8 @@ Project Experience
 ------
 **Development of meshfree numerical simulation software for computational mechanics** 
 
-<font size=3> • Developed a C++ based software implementing URKGSI for high-precision meshfree numerical simulations, integrated with the Gmsh API for node generation and custom nodal distributions.</font><br> 
-<font size=3> • Designed a Qt-based user interface and a Python API wrapper, enabling users to customize simulation parameters and automate workﬂows, improving usability and integration with scientifc tools.</font><br> 
+<font size=3> • Developed a C++ based software implementing URKGSI for high-precision meshfree numerical simulations, integrated with the Gmsh API for node generation and custom nodal distributions.</font> 
+<font size=3> • Designed a Qt-based user interface and a Python API wrapper, enabling users to customize simulation parameters and automate workﬂows, improving usability and integration with scientifc tools.</font> 
 <font size=3> • Enhanced computational efciency by implementing multithreading using OpenMP, reducing simulation time by 40% while maintaining scalability for large-scale problems.</font> 
 
 Research Experience
@@ -89,13 +89,13 @@ Awards & Activities
 <font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font> 
 
 **Activities**:<br>
-**<font size=3>Oral presentation in MMLDE-CSET</font>**<br>
+<font size=3><b>Oral presentation in MMLDE-CSET;</b></font> 
 <font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font> 
-**<font size=3>Oral presentation in ACM 2023;</font>**<br>
+<font size=3><b>Oral presentation in ACM 2023;</b></font> 
 <font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font> 
-**<font size=3>Presentation accepted in SES Annual Technical Meeting;</font>**<br>
+<font size=3><b>Presentation accepted in SES Annual Technical Meeting;</b></font> 
 <font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font> 
-**<font size=3>Presentation in 2023 Research Computing Exhibition;</font>**<br>
+<font size=3><b>Presentation in 2023 Research Computing Exhibition;</b></font> 
 <font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font> 
 
 Academic & Volunteer Service
