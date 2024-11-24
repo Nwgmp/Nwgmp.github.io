@@ -69,34 +69,34 @@ Sep 2022 – Dec 2022, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Qizhi He*
 **High-performance numerical simulation method and its accuracy analysis** <br>
 Sep 2019 – Jun 2022, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Dongdong Wang* 
 
-<font size=3> • Implemented the performance comparison of Finite Element Analysis (FEA) and Meshfree Method regarding dynamical and nonlinear problems.</font> 
-<font size=3> • Developed a unifed Reproducing Kernel Gradient Smoothing Galerkin (RKGS) meshfree approach for the analysis of strain gradient elasticity problems with higher order basis functions, leading to (p + 1)th order stable convergence accuracy for L2 norm and pth order convergence for H1 norm.</font> 
-<font size=3> • Utilizing linear programming approach coupled with Newton’s iteration method to obtain optimal quadrature points and weights for numerical integration, based on third and fourth-order integration constraints within the Galerkin meshfree formulation.</font> 
-<font size=3> • Established the explicit accuracy estimates for Galerkin meshfree formulation to Kirchhoﬀ plate (fourth order problem) and conducted numerical simulations to validate the proposed theory.</font> 
+<font size=3> • Implemented the performance comparison of Finite Element Analysis (FEA) and Meshfree Method regarding dynamical and nonlinear problems. </font> 
+<font size=3> • Developed a unifed Reproducing Kernel Gradient Smoothing Galerkin (RKGS) meshfree approach for the analysis of strain gradient elasticity problems with higher order basis functions, leading to (p + 1)th order stable convergence accuracy for L2 norm and pth order convergence for H1 norm. </font> 
+<font size=3> • Utilizing linear programming approach coupled with Newton’s iteration method to obtain optimal quadrature points and weights for numerical integration, based on third and fourth-order integration constraints within the Galerkin meshfree formulation. </font> 
+<font size=3> • Established the explicit accuracy estimates for Galerkin meshfree formulation to Kirchhoﬀ plate (fourth order problem) and conducted numerical simulations to validate the proposed theory. </font> 
 
 Awards & Activities
 ------
 **Awards**:<br>
-<font size=3>**Hsiao Shaw-Lundquist Fellowship**</font><br>
-<font size=3> &emsp; Sep 2024~Aug 2025 &emsp; University of Minnesota</font><br>
-<font size=3>**NSF Fellowship Award**</font><br>
-<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM</font><br>
-<font size=3>**CEGE Graduate Student Fellowship**</font><br>
-<font size=3> &emsp; Sep 2022~Aug 2023 &emsp; University of Minnesota</font><br>
-<font size=3>**Y.K.Lin Academician Scholarship**</font><br>
-<font size=3> &emsp; May 2022 &emsp;&emsp;&emsp; Xiamen University</font><br>
-<font size=3>**Graduate Student Scholarship**</font><br>
-<font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font><br>
+**<font size=3>Hsiao Shaw-Lundquist Fellowship</font>**<br>
+<font size=3> &emsp; Sep 2024~Aug 2025 &emsp; University of Minnesota</font> 
+**<font size=3>NSF Fellowship Award</font>**<br>
+<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM</font> 
+**<font size=3>CEGE Graduate Student Fellowship</font>**<br>
+<font size=3> &emsp; Sep 2022~Aug 2023 &emsp; University of Minnesota</font> 
+**<font size=3>Y.K.Lin Academician Scholarship</font>**<br>
+<font size=3> &emsp; May 2022 &emsp;&emsp;&emsp; Xiamen University</font> 
+**<font size=3>Graduate Student Scholarship</font>**<br>
+<font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font> 
 
 **Activities**:<br>
-<font size=3>**Oral presentation in MMLDE-CSET**</font><br>
-<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font><br>
-<font size=3>**Oral presentation in ACM 2023**</font><br>
-<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font><br>
-<font size=3>**Presentation accepted in SES Annual Technical Meeting;**</font><br>
-<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font><br>
-<font size=3>**Presentation in 2023 Research Computing Exhibition;**</font><br>
-<font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font><br>
+**<font size=3>Oral presentation in MMLDE-CSET</font>**<br>
+<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font> 
+**<font size=3>Oral presentation in ACM 2023;</font>**<br>
+<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font> 
+**<font size=3>Presentation accepted in SES Annual Technical Meeting;</font>**<br>
+<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font> 
+**<font size=3>Presentation in 2023 Research Computing Exhibition;</font>**<br>
+<font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font> 
 
 Academic & Volunteer Service
 ------
