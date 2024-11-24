@@ -83,7 +83,7 @@ Awards & Activities
 **Y.K.Lin Academician Scholarship**; May 2022 &nbsp;&nbsp;&nbsp;&nbsp; Xiamen University <br>
 **Graduate Student Scholarship**; Sep 2019 – Jun 2022 &nbsp;&nbsp;&nbsp;&nbsp; Xiamen University <br>
 
-**Activities** <br>
+**Activities**: <br>
 **Oral presentation in MMLDE-CSET**; Sep 2023 &nbsp;&nbsp;&nbsp;&nbsp; IACM Conference <br>
 **Oral presentation in ACM 2023**; Oct 2023 &nbsp;&nbsp;&nbsp;&nbsp; U.S. Association for Computational Mechanics <br>
 **Presentation accepted in SES Annual Technical Meeting**; Oct 2023 &nbsp;&nbsp;&nbsp;&nbsp; Society of Engineering Science <br>
