@@ -23,22 +23,22 @@ Xiamen, China <br>
 Chongqing, China <br>
 *B.S. in Civil Engineering; 	Jun 2019* <br>
 
-*Research interests*: Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation* <br>
+**Research interests**: Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation* <br>
 
 Skills & coursework
 ------
-**Programming:** PYTHON, MATLAB, C, C++, R, JAVA, JavaScript, SQL
-**Software/Tools:** Abaqus, Ansys, SolidWorks, COMSOL, OpenFoam, CAD, OpenGL, Taichi
-**Deep learning frameworks:** PyTorch, JAX, Keras, TensorFlow, CUDA
-**Coursework:** Deep Learning, Numerical Optimization, Computer Vision, Parallel Computing, Computer Graphics, Computational Fluid Dynamics, Advanced Machine Learning, Finite Element Method, Multiscale Methods
+**Programming:** PYTHON, MATLAB, C, C++, R, JAVA, JavaScript, SQL <br>
+**Software/Tools:** Abaqus, Ansys, SolidWorks, COMSOL, OpenFoam, CAD, OpenGL, Taichi <br>
+**Deep learning frameworks:** PyTorch, JAX, Keras, TensorFlow, CUDA <br>
+**Coursework:** Deep Learning, Numerical Optimization, Computer Vision, Parallel Computing, Computer Graphics, Computational Fluid Dynamics, Advanced Machine Learning, Finite Element Method, Multiscale Methods <br>
 
 Project Experience
 ------
-**Development of meshfree numerical simulation software for computational mechanics** 
+**Development of meshfree numerical simulation software for computational mechanics** <br>
 
-• Developed a C++ based software implementing URKGSI for high-precision meshfree numerical simulations, integrated with the Gmsh API for node generation and custom nodal distributions.
-• Designed a Qt-based user interface and a Python API wrapper, enabling users to customize simulation parameters and automate workﬂows, improving usability and integration with scientifc tools.
-• Enhanced computational efciency by implementing multithreading using OpenMP, reducing simulation time by 40% while maintaining scalability for large-scale problems.
+• Developed a C++ based software implementing URKGSI for high-precision meshfree numerical simulations, integrated with the Gmsh API for node generation and custom nodal distributions. <br>
+• Designed a Qt-based user interface and a Python API wrapper, enabling users to customize simulation parameters and automate workﬂows, improving usability and integration with scientifc tools. <br>
+• Enhanced computational efciency by implementing multithreading using OpenMP, reducing simulation time by 40% while maintaining scalability for large-scale problems. <br>
 
 Research Experience
 ------
