@@ -9,21 +9,24 @@ redirect_from:
 
 
 Education & Research Focus
-======
-**University of Minnesota-Twin Cities, College of Science and Engineering** 	Minnesota, the U.S.
+------
+**University of Minnesota-Twin Cities, College of Science and Engineering** 	
+Minnesota, the U.S.
 *Ph.D. in Computational Science and Engineering; GPA 3.89/4.0 	Expected Graduation 2026*
-**University of Minnesota-Twin Cities, College of Science and Engineering** 	Minnesota, the U.S.
+**University of Minnesota-Twin Cities, College of Science and Engineering** 	
+Minnesota, the U.S.
 *M.S. in Computer Science; GPA 3.89/4.0 	Expected Graduation 2026*
-
-**Xiamen University** 	Xiamen, China
+**Xiamen University** 	
+Xiamen, China
 *M.S. in Computational Mechanics; 	Jun 2022*
-**Chongqing Jiaotong University** 	Chongqing, China
+**Chongqing Jiaotong University** 	
+Chongqing, China
 *B.S. in Civil Engineering; 	Jun 2019*
 
 *Research interests: Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation*
 
 Skills & coursework
-======
+------
 **Programming:** PYTHON, MATLAB, C, C++, R, JAVA, JavaScript, SQL
 **Software/Tools:** Abaqus, Ansys, SolidWorks, COMSOL, OpenFoam, CAD, OpenGL, Taichi
 **Deep learning frameworks:** PyTorch, JAX, Keras, TensorFlow, CUDA
@@ -31,15 +34,18 @@ Skills & coursework
 
 Project Experience
 ------
-**Development of meshfree numerical simulation software for computational mechanics**
+**Development of meshfree numerical simulation software for computational mechanics** 
+
 • Developed a C++ based software implementing URKGSI for high-precision meshfree numerical simulations, integrated with the Gmsh API for node generation and custom nodal distributions.
 • Designed a Qt-based user interface and a Python API wrapper, enabling users to customize simulation parameters and automate workﬂows, improving usability and integration with scientifc tools.
 • Enhanced computational efciency by implementing multithreading using OpenMP, reducing simulation time by 40% while maintaining scalability for large-scale problems.
 
 Research Experience
 ------
-**NI-MPM: A GPU accelerated data-driven material point method for physics-based numerical simulation in computer graphics**  Jul 2024 – Current
-*Research Assistant Advisor: Prof. Qizhi He*
+**NI-MPM: A GPU accelerated data-driven material point method for physics-based numerical simulation in computer graphics**  
+Jul 2024 – Current
+*Research Assistant Advisor: Prof. Qizhi He* 
+
 • Integrated Eulerian-Lagrangian hybrid features from MPM into neural integrated meshfree (NIM) method,
 embedding physical information to enhance the training process and achieve realistic simulations of ﬂuids and
 granular materials (e.g., sand).
@@ -48,8 +54,10 @@ programming, enhancing the speed and scalability of real-time graphical simulati
 • Designed custom neural network approximations (NeuroPU) to enable seamless dataset assimilation at any time
 step, guiding the simulation-based training process and enabling time-series forecasting.
 
-**JAX-NIM: A GPU accelerated diﬀerentiable meshfree (and fnite element) solver for computational mechanics (PDEs), operator learning, inverse design**  Sep 2023 – May 2024
-*Research Assistant Advisor: Prof. Qizhi He*
+**JAX-NIM: A GPU accelerated diﬀerentiable meshfree (and fnite element) solver for computational mechanics (PDEs), operator learning, inverse design**  
+Sep 2023 – May 2024
+*Research Assistant Advisor: Prof. Qizhi He* 
+
 • Proposed neuro-symbolic hybrid approximation (NeuroPU) that integrates numerical discretization (e.g., FEM,
 spectral method) with DNNs (e.g., CNN), reducing system parameter space complexity by 70%, and enabling 12x
 faster training (Adam, L-BFGS).
@@ -60,8 +68,10 @@ hyper-elastic, and elastoplastic materials, outperforming Physics-Informed Neura
 real-time prediction for black-box complex systems after ofine training, and allowing representation of invisible
 features including fractures and damage in geophysical systems.
 
-**Object detection and semantic 3D reconstruction via computer vision**  Sep 2023 – Dec 2023
-*Project Participant Advisor: Prof. Volkan Isler*
+**Object detection and semantic 3D reconstruction via computer vision**  
+Sep 2023 – Dec 2023
+*Project Participant Advisor: Prof. Volkan Isler* 
+
 • Optimized YOLOv8 for enhanced face mask detection by integrating an advanced attention mechanism, achieving
 higher accuracy and detection precision.
 • Implemented algorithms from foundational principles, including Structure from Motion (SfM) for 3D reconstruction
@@ -69,8 +79,10 @@ and Mask-RCNN for image segmentation, enhancing technical expertise in computer 
 • Conducted extensive exploration and practical application of various image segmentation methods and 3D
 reconstruction techniques.
 
-**Subsurface ﬂuid dynamics modeling by physics-informed machine learning**  Sep 2022 – Dec 2022
-*Research Assistant Advisor: Prof. Qizhi He*
+**Subsurface ﬂuid dynamics modeling by physics-informed machine learning**  
+Sep 2022 – Dec 2022
+*Research Assistant Advisor: Prof. Qizhi He* 
+
 • Introduced the Physics-Informed Neural Network (PINN) method to investigate the mass transfer of CO2 injected
 into subsurface porous formations, demonstrating a promising alternative to Finite Element Method simulations.
 • Incorporated Fourier feature mapping into the neural networks to handle the notorious spectral bias, increasing the
@@ -78,8 +90,10 @@ accuracy of unstable density-driven ﬂow modeling by 30% when compared to the r
 • Introduced temporal domain decomposition and transfer learning to enhance the stability for long-term prediction
 of ﬂow dynamics, allowing the PINN solution to capture short-interval dynamics sequentially.
 
-**High-performance numerical simulation method and its accuracy analysis**  Sep 2019 – Jun 2022
-*Research Assistant Advisor: Prof. Dongdong Wang*
+**High-performance numerical simulation method and its accuracy analysis**  
+Sep 2019 – Jun 2022
+*Research Assistant Advisor: Prof. Dongdong Wang* 
+
 • Implemented the performance comparison of Finite Element Analysis (FEA) and Meshfree Method regarding
 dynamical and nonlinear problems.
 • Developed a unifed Reproducing Kernel Gradient Smoothing Galerkin (RKGS) meshfree approach for the analysis
