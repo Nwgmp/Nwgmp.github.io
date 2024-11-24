@@ -32,39 +32,39 @@ Project Experience
 ------
 **Development of meshfree numerical simulation software for computational mechanics** 
 
- • Developed a C++ based software implementing URKGSI for high-precision meshfree numerical simulations, integrated with the Gmsh API for node generation and custom nodal distributions. 
- • Designed a Qt-based user interface and a Python API wrapper, enabling users to customize simulation parameters and automate workﬂows, improving usability and integration with scientifc tools. 
- • Enhanced computational efciency by implementing multithreading using OpenMP, reducing simulation time by 40% while maintaining scalability for large-scale problems. 
+ • Developed a C++ based software implementing URKGSI for high-precision meshfree numerical simulations, integrated with the Gmsh API for node generation and custom nodal distributions.  
+ • Designed a Qt-based user interface and a Python API wrapper, enabling users to customize simulation parameters and automate workﬂows, improving usability and integration with scientifc tools.  
+ • Enhanced computational efciency by implementing multithreading using OpenMP, reducing simulation time by 40% while maintaining scalability for large-scale problems.  
 
 Research Experience
 ------
 **NI-MPM: A GPU accelerated data-driven material point method for physics-based numerical simulation in computer graphics** <br>
 Jul 2024 – Current, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Qizhi He* 
 
- • Integrated Eulerian-Lagrangian hybrid features from MPM into neural integrated meshfree (NIM) method, embedding physical information to enhance the training process and achieve realistic simulations of ﬂuids and granular materials (e.g., sand). 
- • Implemented NI-MPM on JAX deep learning framework for high-performance parallel computing and diﬀerentiable programming, enhancing the speed and scalability of real-time graphical simulations. 
- • Designed custom neural network approximations (NeuroPU) to enable seamless dataset assimilation at any time step, guiding the simulation-based training process and enabling time-series forecasting. 
+ • Integrated Eulerian-Lagrangian hybrid features from MPM into neural integrated meshfree (NIM) method, embedding physical information to enhance the training process and achieve realistic simulations of ﬂuids and granular materials (e.g., sand).  
+ • Implemented NI-MPM on JAX deep learning framework for high-performance parallel computing and diﬀerentiable programming, enhancing the speed and scalability of real-time graphical simulations.  
+ • Designed custom neural network approximations (NeuroPU) to enable seamless dataset assimilation at any time step, guiding the simulation-based training process and enabling time-series forecasting.  
 
-**JAX-NIM: A GPU accelerated diﬀerentiable meshfree (and fnite element) solver for computational mechanics (PDEs), operator learning, inverse design** <br>
+**JAX-NIM: A GPU accelerated diﬀerentiable meshfree (and fnite element) solver for computational mechanics (PDEs), operator learning, inverse design** 
 Sep 2023 – May 2024, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Qizhi He* 
 
- • Proposed neuro-symbolic hybrid approximation (NeuroPU) that integrates numerical discretization (e.g., FEM, spectral method) with DNNs (e.g., CNN), reducing system parameter space complexity by 70%, and enabling 12x faster training (Adam, L-BFGS). 
- • Developed a novel hybrid NIM framework on Google’s JAX deep learning framework as a diﬀerentiable programming-based AI methodology, to approximate solutions of Partial Diﬀerential Equations (PDEs) for elastic, hyper-elastic, and elastoplastic materials, outperforming Physics-Informed Neural Networks (PINN). 
- • Integrated fundamental physical laws into NIM, and applied it to efcient operator learning, enabling 5x faster real-time prediction for black-box complex systems after ofine training, and allowing representation of invisible features including fractures and damage in geophysical systems. 
+ • Proposed neuro-symbolic hybrid approximation (NeuroPU) that integrates numerical discretization (e.g., FEM, spectral method) with DNNs (e.g., CNN), reducing system parameter space complexity by 70%, and enabling 12x faster training (Adam, L-BFGS).  
+ • Developed a novel hybrid NIM framework on Google’s JAX deep learning framework as a diﬀerentiable programming-based AI methodology, to approximate solutions of Partial Diﬀerential Equations (PDEs) for elastic, hyper-elastic, and elastoplastic materials, outperforming Physics-Informed Neural Networks (PINN).  
+ • Integrated fundamental physical laws into NIM, and applied it to efcient operator learning, enabling 5x faster real-time prediction for black-box complex systems after ofine training, and allowing representation of invisible features including fractures and damage in geophysical systems.  
 
 **Object detection and semantic 3D reconstruction via computer vision** <br> 
 Sep 2023 – Dec 2023, &nbsp;&nbsp; *Project Participant Advisor: Prof. Volkan Isler* 
 
- • Optimized YOLOv8 for enhanced face mask detection by integrating an advanced attention mechanism, achieving higher accuracy and detection precision. 
- • Implemented algorithms from foundational principles, including Structure from Motion (SfM) for 3D reconstruction and Mask-RCNN for image segmentation, enhancing technical expertise in computer vision. 
- • Conducted extensive exploration and practical application of various image segmentation methods and 3D reconstruction techniques. 
+ • Optimized YOLOv8 for enhanced face mask detection by integrating an advanced attention mechanism, achieving higher accuracy and detection precision.  
+ • Implemented algorithms from foundational principles, including Structure from Motion (SfM) for 3D reconstruction and Mask-RCNN for image segmentation, enhancing technical expertise in computer vision.  
+ • Conducted extensive exploration and practical application of various image segmentation methods and 3D reconstruction techniques.  
 
 **Subsurface ﬂuid dynamics modeling by physics-informed machine learning** <br> 
 Sep 2022 – Dec 2022, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Qizhi He* 
 
- • Introduced the Physics-Informed Neural Network (PINN) method to investigate the mass transfer of CO2 injected into subsurface porous formations, demonstrating a promising alternative to Finite Element Method simulations. 
- • Incorporated Fourier feature mapping into the neural networks to handle the notorious spectral bias, increasing the accuracy of unstable density-driven ﬂow modeling by 30% when compared to the reference solution. 
- • Introduced temporal domain decomposition and transfer learning to enhance the stability for long-term prediction of ﬂow dynamics, allowing the PINN solution to capture short-interval dynamics sequentially. 
+ • Introduced the Physics-Informed Neural Network (PINN) method to investigate the mass transfer of CO2 injected into subsurface porous formations, demonstrating a promising alternative to Finite Element Method simulations.  
+ • Incorporated Fourier feature mapping into the neural networks to handle the notorious spectral bias, increasing the accuracy of unstable density-driven ﬂow modeling by 30% when compared to the reference solution.  
+ • Introduced temporal domain decomposition and transfer learning to enhance the stability for long-term prediction of ﬂow dynamics, allowing the PINN solution to capture short-interval dynamics sequentially.  
 
 **High-performance numerical simulation method and its accuracy analysis** <br>
 Sep 2019 – Jun 2022, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Dongdong Wang* 
@@ -88,15 +88,15 @@ Awards & Activities
 **Graduate Student Scholarship**<br>
 <font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font><br>
 
-**Activities**:<br>
-**Oral presentation in MMLDE-CSET**<br>
-<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font> 
-**Oral presentation in ACM 2023**<br>
-<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font> 
-**Presentation accepted in SES Annual Technical Meeting**<br>
-<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font> 
-**Presentation in 2023 Research Computing Exhibition**<br>
-<font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font> 
+**Activities**:  
+**Oral presentation in MMLDE-CSET**  
+<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font>  
+**Oral presentation in ACM 2023**  
+<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font>  
+**Presentation accepted in SES Annual Technical Meeting**  
+<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font>  
+**Presentation in 2023 Research Computing Exhibition;**  
+<font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font>  
 
 Academic & Volunteer Service
 ------
