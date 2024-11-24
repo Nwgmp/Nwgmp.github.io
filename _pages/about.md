@@ -76,7 +76,7 @@ Sep 2019 – Jun 2022, &nbsp;&nbsp; *Research Assistant Advisor: Prof. Dongdong 
 
 Awards & Activities
 ------
-**Awards** 
+**Awards** <br>
 | Award | Datetime | Location | 
 | ----- | -------- | -------- | 
 | Hsiao Shaw-Lundquist Fellowship | Sep 2024 – Aug 2025 | University of Minnesota | 
@@ -85,7 +85,7 @@ Awards & Activities
 | Y.K.Lin Academician Scholarship | May 2022 | Xiamen University | 
 | Graduate Student Scholarship | Sep 2019 – Jun 2022 | Xiamen University | 
 
-**Activities** 
+**Activities** <br>
 | Activity | Datetime | Location | 
 | ----- | -------- | -------- | 
 | Oral presentation in MMLDE-CSET | Sep 2023 | IACM Conference | 
@@ -95,4 +95,4 @@ Awards & Activities
 
 Academic & Volunteer Service
 ------
-Reviewer: Applied Intelligence; Computers and Mathematics with Applications; Numerical Heat Transfer, Part B: Fundamentals; International Conference on Computer Science and Application Engineering
+**Reviewer**: Applied Intelligence; Computers and Mathematics with Applications; Numerical Heat Transfer, Part B: Fundamentals; International Conference on Computer Science and Application Engineering
