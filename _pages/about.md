@@ -100,4 +100,4 @@ Awards & Activities
 
 Academic & Volunteer Service
 ------
-**Reviewer**: Applied Intelligence; Computers and Mathematics with Applications; Numerical Heat Transfer, Part B: Fundamentals; International Conference on Computer Science and Application Engineering
+<font size=3>**Reviewer**: Applied Intelligence; Computers and Mathematics with Applications; Numerical Heat Transfer, Part B: Fundamentals; International Conference on Computer Science and Application Engineering</font> 
