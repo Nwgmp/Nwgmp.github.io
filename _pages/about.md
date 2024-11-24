@@ -93,10 +93,10 @@ Awards & Activities
 <font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font>  
 **Oral presentation in ACM 2023**  
 <font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font>  
-**Presentation accepted in SES Annual Technical Meeting**  
+**Presentation accepted in SES Annual Technical Meeting;**  
 <font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font>  
-**Presentation in 2023 Research Computing Exhibition;**  
-<font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font>  
+<font size=3><b>Presentation in 2023 Research Computing Exhibition</b>;</font>  
+<font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font>
 
 Academic & Volunteer Service
 ------
