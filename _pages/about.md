@@ -19,7 +19,7 @@ Education & Research Focus
 **Chongqing Jiaotong University** &nbsp;&nbsp; Chongqing, China <br>
 *B.S. in Civil Engineering; 	Jun 2019* 
 
-**Research interests**: Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation* 
+**Research interests**: *Scientifc Machine Learning and Computing, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Material Point Method (MPM), Numerical Optimization, Parallel Computing, PDE Solvers, Inverse Design, Computational Mechanics, Computer Vision, Numerical Simulation* 
 
 Skills & coursework
 ------
