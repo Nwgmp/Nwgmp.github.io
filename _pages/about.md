@@ -78,25 +78,25 @@ Awards & Activities
 ------
 **Awards**: <br>
 **Hsiao Shaw-Lundquist Fellowship**; <br>
- &emsp; Sep 2024~Aug 2025 &emsp; University of Minnesota <br>
+<font size=3> &emsp; Sep 2024~Aug 2025 &emsp; University of Minnesota</font> <br>
 **NSF Fellowship Award**; <br>
- &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM <br>
+<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM</font> <br>
 **CEGE Graduate Student Fellowship**; <br>
- &emsp; Sep 2022~Aug 2023 &emsp; University of Minnesota <br>
+<font size=3> &emsp; Sep 2022~Aug 2023 &emsp; University of Minnesota</font> <br>
 **Y.K.Lin Academician Scholarship**; <br>
- &emsp; May 2022 &emsp;&emsp;&emsp; Xiamen University <br>
+<font size=3> &emsp; May 2022 &emsp;&emsp;&emsp; Xiamen University</font> <br>
 **Graduate Student Scholarship**; <br>
- &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University 
+<font size=3> &emsp; Sep 2019~Jun 2022 &emsp; Xiamen University</font> 
 
 **Activities**: <br>
 **Oral presentation in MMLDE-CSET**; <br>
- &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference <br>
+<font size=3> &emsp; Sep 2023 &emsp;&emsp;&emsp; IACM Conference</font> <br>
 **Oral presentation in ACM 2023**; <br>
- &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics <br>
+<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; U.S. Association for Computational Mechanics</font> <br>
 **Presentation accepted in SES Annual Technical Meeting**; <br>
- &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science <br>
+<font size=3> &emsp; Oct 2023 &emsp;&emsp;&emsp; Society of Engineering Science</font> <br>
 **Presentation in 2023 Research Computing Exhibition**; <br>
- &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota 
+<font size=3> &emsp; Apr 2023 &emsp;&emsp;&emsp; University of Minnesota</font> 
 
 Academic & Volunteer Service
 ------
